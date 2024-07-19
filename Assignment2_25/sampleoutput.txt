@@ -1,0 +1,27 @@
+1) Analysis of Best First Search:-
+	(i)Manhattan:-
+		States explored = 942
+		Completion status = Reached GOAL state
+		Final State = [['A', 'D', 'B'], ['E', 'F', 'C'], []]
+	(ii)One Adder:-
+		States explored = 271
+		Completion status = Reached GOAL state
+		Final State = [['A', 'D', 'B'], ['E', 'F', 'C'], []]
+	(iii)Level Adder:-
+		States explored = 267
+		Completion status = Reached GOAL state
+		Final State = [['A', 'D', 'B'], ['E', 'F', 'C'], []]
+
+2) Analysis of Hill Climbing:-
+	(i)Manhattan:-
+		States explored = 5
+		Completion status = Cannot reach GOAL state
+		Final State = [['E', 'B'], ['D', 'A', 'C', 'F'], []]
+	(ii)One Adder:-
+		States explored = 9
+		Completion statu = Cannot reach GOAL state
+		Final State = [[], ['D', 'A', 'C', 'F', 'B', 'E'], []]
+	(iii)Level Adder:-
+		States explored = 9
+		Completion status = Cannot reach GOAL state
+		Final State = [[], ['D', 'A', 'C', 'F', 'B', 'E'], []]

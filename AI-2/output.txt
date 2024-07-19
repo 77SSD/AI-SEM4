@@ -1,0 +1,15 @@
+
+
+Analysis of Hill Climbing:-
+	(i)Manhattan:-
+		States explored = 5
+		Completion status = Cannot reach GOAL state
+		Final State = [['E', 'B'], ['D', 'A', 'C', 'F'], []]
+	(ii)One Adder:-
+		States explored = 9
+		Completion statu = Cannot reach GOAL state
+		Final State = [[], ['D', 'A', 'C', 'F', 'B', 'E'], []]
+	(iii)Level Adder:-
+		States explored = 9
+		Completion status = Cannot reach GOAL state
+		Final State = [[], ['D', 'A', 'C', 'F', 'B', 'E'], []]
